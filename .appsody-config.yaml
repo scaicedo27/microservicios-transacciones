@@ -1,0 +1,3 @@
+id: "20200906122251.46861790"
+project-name: microservicios-transacciones
+stack: docker.io/kabanero/java-spring-boot2:0.3
